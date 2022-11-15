@@ -1,0 +1,37 @@
+_repo: A-boke-made-by-John-Fryth-prysoner-in-the-Tower-of-London-answerynge-unto-M-Mores-letter-whic__69199
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frith, John
+    aliases:
+    - Fryth, John
+    - Fryth, Johan
+    birthdate: 1503
+    deathdate: 1533
+    gutenberg_agent_id: '55160'
+    url: http://www.gutenberg.org/2009/agents/55160
+    wikipedia: https://en.wikipedia.org/wiki/John_Frith_(martyr)
+description: ''
+gutenberg_issued: '2022-10-21'
+identifiers:
+  gutenberg: '69199'
+language: en
+pgterms:marc905: 20210508164611fryth
+pgterms:marc906: '1546'
+pgterms:marc907: GB
+production_note: David King and the Online Distributed Proofreading Team at https://www.pgdp.net.
+  (This file was produced from images generously made available by The Internet Archive.)
+publication_note: 'United Kingdom: Not listed,1546.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'More, Thomas, Saint, 1478-1535'
+- !lcsh 'Dissenters, Religious -- England'
+- !lcsh 'Lord''s Supper -- Early works to 1800'
+- !lcc 'BX'
+- GITenberg
+title: "A boke made by John Fryth, prysoner in the Tower of London\r\nanswerynge unto\
+  \ M. Mores letter, which he wrote agaynst the fyrste lytle treatyse that John Fryth\
+  \ made, concernynge the sacramente of the body and bloude of Christ"
+url: http://www.gutenberg.org/ebooks/69199
