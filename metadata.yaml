@@ -1,5 +1,8 @@
 _repo: A-boke-made-by-John-Fryth-prysoner-in-the-Tower-of-London-answerynge-unto-M-Mores-letter-whic__69199
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69199-h/images/cover.jpg
 creator:
   author:
     agent_name: Frith, John
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55160
     wikipedia: https://en.wikipedia.org/wiki/John_Frith_(martyr)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69199#A-boke-made-by-John-Fryth-prysoner-in-the-Tower-of-London-answerynge-unto-M-Mores-letter-whic_
 gutenberg_issued: '2022-10-21'
 identifiers:
   gutenberg: '69199'
